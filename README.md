@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yearing1017&show_icons=true">
 
-<h2> I'm yearing1017 </h2>
+<h2> I'm yearing1017 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>An ordinary graduate student of deep learning
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
