@@ -1,10 +1,28 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yearing1017&show_icons=true">
+# Hello there 👋
 
-<h2> I'm Jin L <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-[![My Blog](https://img.shields.io/static/v1?label=Blog&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](http://yearing1017.cn/)
-<!--[![个人主页](https://img.shields.io/static/v1?label=个人主页&message=%20&color=red&logo=&style=flat-square&logoColor=white)](https://yearing1017.github.io/)
--->
-<p><em>An ordinary graduate student of deep learning
+I am Jin L, <em>An ordinary graduate student of deep learning
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em> 
+
+* 🧐   Interested in ML/DL. Recent focus on Recommend System.
+* 🌱   Currently learning Algorithm & ML.  
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](http://yearing1017.cn).
+
+<details>
+  <summary>Some other facts about me-e-e</summary>
+  <br>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yearing1017&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yearing1017&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+</p>
+
+</details>
+  
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+</p>
+
