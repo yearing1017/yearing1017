@@ -7,7 +7,7 @@ I am Jin L, <em>An ordinary graduate student of deep learning
 </em> 
 
 * 🧐   Interested in ML/DL. Recent focus on Recommend System.
-* 🌱   Currently learning Algorithm & ML.  
+* 🌱   Currently learning RecoSys & Graph & NLP.  
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](http://yearing1017.cn).
 
 <details>
