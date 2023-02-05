@@ -2,13 +2,11 @@
 
 ![](https://github.com/yearing1017/yearing1017/blob/master/header_.png)
 
-I am Jin L, <em>An ordinary graduate student of deep learning
+I am Jin L, <em>graduated in June 2022, now an algorithm engineer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em> 
 
-* 🧐   Interested in ML/DL. Recent focus on Recommend System.
-* 🌱   Currently learning RecoSys & Graph & NLP.  
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](http://yearing1017.cn).
+* 🧐   Interested in ML/DL &  RecoSys & Graph & NLP. 
 
 <details>
   <summary>Some other facts about me-e-e</summary>
