@@ -2,14 +2,12 @@
 
 ![](https://github.com/yearing1017/yearing1017/blob/master/header_.png)
 
-I am Jin L, <em>graduated in June 2022, now an algorithm engineer
+Graduated in June 2022, Now An Search & Recommendations Algorithm Engineer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em> 
 
-* 🧐   Interested in ML/DL &  RecoSys & Graph & NLP. 
-
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Some other facts about me</summary>
   <br>
 
 <p align="center">
