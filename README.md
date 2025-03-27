@@ -1,6 +1,6 @@
-# Hello there 👋
+## Hello there 👋
 
-![](https://github.com/yearing1017/yearing1017/blob/master/header_.png)
+![](https://github.com/yearing1017/yearing1017/blob/master/github-contribution-grid-snake.svg)
 
 Graduated in June 2022, Now An Search & Recommendations Algorithm Engineer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
